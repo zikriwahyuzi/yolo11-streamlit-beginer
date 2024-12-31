@@ -13,11 +13,12 @@ This repository contains a Streamlit web application for object detection using 
 2. **Install dependencies:**
    ```bash
    cd "your-repository"
+   ```bash
    pip install -r requirements.txt
 4. **Run the app:**
    ```bash
    streamlit run testyolo11.py
    
 **Note:**
-Camera Permissions:
+'Camera Permissions'
 You may need to grant camera permissions to the app when you run it for the first time.
