@@ -9,7 +9,7 @@ This repository contains a Streamlit web application for object detection using 
 **To run the app:**
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+   git clone https://github.com/ZIKRIWAHYUZI/yolo11-streamlit-beginer.git
 2. **Install dependencies:**
    ```bash
    cd your-repo
@@ -18,6 +18,6 @@ This repository contains a Streamlit web application for object detection using 
    ```bash
    streamlit run testyolo11.py
    
-Note:
+**Note:**
 Camera Permissions:
 You may need to grant camera permissions to the app when you run it for the first time.
