@@ -11,9 +11,11 @@ This repository contains a Streamlit web application for object detection using 
    ```bash
    git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
 2. **Install dependencies:**
+   ```bash
    cd your-repo
    pip install -r requirements.txt
-3. **Run the app:**
+4. **Run the app:**
+   ```bash
    streamlit run testyolo11.py
    
 Note:
