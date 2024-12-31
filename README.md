@@ -13,7 +13,7 @@ This repository contains a Streamlit web application for object detection using 
 2. **Install dependencies:**
    ```bash
    cd "your-repository"
-   ```bash
+   
    pip install -r requirements.txt
 4. **Run the app:**
    ```bash
