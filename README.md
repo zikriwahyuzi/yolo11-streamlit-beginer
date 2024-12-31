@@ -9,7 +9,7 @@ This repository contains a Streamlit web application for object detection using 
 **To run the app:**
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/ZIKRIWAHYUZI/yolo11-streamlit-beginer.git
+   git clone https://github.com/zikriwahyuzi/yolo11-streamlit-beginer.git
 2. **Install dependencies:**
    ```bash
    cd "your-repository"
