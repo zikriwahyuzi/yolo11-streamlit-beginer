@@ -1,8 +1,8 @@
-from ultralytics import YOLO
 import cv2
 import streamlit as st
-from PIL import Image
 import numpy as np
+from PIL import Image
+from ultralytics import YOLO
 from collections import Counter
 
 # Load YOLO model
